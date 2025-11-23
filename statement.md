@@ -28,15 +28,25 @@ Advanced deep-learning pipelines requiring high compute.
  Target Users
 
 Target Users
+
 Students and Teachers – to verify assignment authenticity.
+
 Content Creators – to ensure originality of written content.
+
 Researchers – working on NLP, linguistics, and AI ethics.
+
 Organizations & Recruiters – to validate writing samples or statements of purpose.
+
 General Users – anyone curious about whether text is AI-generated.
+
 High-Level Features
+
 Text Input Module – Users can paste or upload text.
+
 AI-vs-Human Classification – Model predicts likelihood score (e.g., “82% AI-generated”).
+
 Probability/Confidence Score – Displays how sure the detector is.
+
 Highlighting Patterns (optional) – Shows repetitive or unnatural phrases typical of AI.
 
 History/Logs (optional) – Stores past analyses for review.
